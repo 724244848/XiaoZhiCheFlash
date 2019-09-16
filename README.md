@@ -18,4 +18,4 @@ iOS是玩不了的，puffin和photon浏览器可以像远程控制这样玩，�
 
 安卓8往上的就不稳定了，会偶发性闪退：https://www.coolapk.com/apk/com.webgenie.swfplay2
 
-安卓8往上要稳一点的话，最好装虚拟机：https://www.coolapk.com/apk/com.vmos.app，然后用安卓7的模拟器玩。
+安卓8往上要稳一点的话，最好装虚拟机，然后用安卓7版的播放器：https://www.coolapk.com/apk/com.vmos.app
