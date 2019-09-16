@@ -15,6 +15,7 @@ swf文件需要独立播放器Flash Player projector打开，可以去官网下�
 iOS是玩不了的，puffin和photon浏览器可以像远程控制这样玩，但不推荐。
 
 安卓7可用播放器：https://www.coolapk.com/apk/com.webgenie.swf.play
+
 安卓8往上的就不稳定了，会偶发性闪退：https://www.coolapk.com/apk/com.webgenie.swfplay2
 
 安卓8往上要稳一点的话，最好装虚拟机：https://www.coolapk.com/apk/com.vmos.app，然后用安卓7的模拟器玩。
