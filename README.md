@@ -7,7 +7,7 @@
 为闪客时代干杯！致敬所有的FLASH开发者。
 
 ## 想在网页上玩？
-大部分FLASH已上传至`灵动游戏`：http://www.mhhf.com
+大部分FLASH已上传至`[灵动游戏]`(http://www.mhhf.com)
 
 ## 怎么打开？
 swf文件需要`独立播放器Flash Player projector`打开，可以去官网下载：https://www.adobe.com/support/flashplayer/debug_downloads.html
