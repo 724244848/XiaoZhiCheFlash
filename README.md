@@ -10,7 +10,7 @@
 大部分FLASH已上传至`灵动游戏`：http://www.mhhf.com
 
 ## 怎么打开？
-swf文件需要`独立播放器``Flash Player projector`打开，可以去官网下载：https://www.adobe.com/support/flashplayer/debug_downloads.html
+swf文件需要`独立播放器Flash Player projector`打开，可以去官网下载：https://www.adobe.com/support/flashplayer/debug_downloads.html
 
 ## 手机端怎么玩？
 iOS是玩不了的，puffin和photon浏览器可以通过服务器处理后返回一个影像给你，但由于外网不稳定，所以不推荐。
