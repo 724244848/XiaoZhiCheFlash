@@ -13,7 +13,7 @@
 swf文件需要独立播放器[Flash Player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html)
 
 ## 手机端怎么玩？
-iOS是玩不了的，puffin和photon浏览器可以通过服务器处理后返回一个影像给你，但由于外网不稳定，所以不推荐。
+`iOS`是玩不了的，`photon浏览器`可以通过服务器处理后勉强可以玩，但由于`外网不稳定而且操作极差`，所以不推荐。
 
 [安卓7可用播放器](https://www.coolapk.com/apk/com.webgenie.swf.play)
 
