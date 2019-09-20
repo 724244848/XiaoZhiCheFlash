@@ -6,13 +6,13 @@
 
 为闪客时代干杯！致敬所有的FLASH开发者。
 
-# 想在网页上玩？
+## 想在网页上玩？
 大部分FLASH已上传至灵动游戏：http://www.mhhf.com
 
-# 怎么打开？
+## 怎么打开？
 swf文件需要独立播放器Flash Player projector打开，可以去官网下载：https://www.adobe.com/support/flashplayer/debug_downloads.html
 
-# 手机端怎么玩？
+## 手机端怎么玩？
 iOS是玩不了的，puffin和photon浏览器可以通过服务器处理后返回一个影像给你，但由于外网不稳定，所以不推荐。
 
 安卓7可用播放器：https://www.coolapk.com/apk/com.webgenie.swf.play
