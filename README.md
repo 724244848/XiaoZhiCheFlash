@@ -12,6 +12,8 @@
 ## 怎么打开？
 swf文件需要独立播放器[Flash Player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html)打开
 
+如果是MAC的话，试试[Elmedia Player](https://mac.eltima.com/cn/swf-player.html)（对MAC不太清楚，有好用的可以推荐一下）
+
 ## 手机端怎么玩？
 `iOS`是玩不了的，`photon浏览器`可以通过服务器处理后勉强可以玩，但由于`外网不稳定而且操作极差`，所以不推荐。
 
