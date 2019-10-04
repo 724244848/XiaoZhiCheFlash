@@ -6,6 +6,8 @@
 
 弥补那些年的留下的遗憾，顺便也作个备份。
 
+[欢迎讨论](https://github.com/724244848/XiaoZhiCheFlash/issues)
+
 ## 想在网页上玩？
 大部分FLASH已上传至[灵动游戏](http://www.mhhf.com)
 
