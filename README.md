@@ -13,7 +13,9 @@
 
 ## 怎么打开？
 swf文件需要独立播放器[Flash Player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html)打开
+
 WIN版：https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe
+
 MAC版：https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.dmg
 
 
