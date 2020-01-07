@@ -24,9 +24,7 @@ MAC版：https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplay
 
 [安卓7可用播放器](https://www.coolapk.com/apk/com.webgenie.swf.play)
 
-[安卓8以上版本播放器](https://www.coolapk.com/apk/com.webgenie.swfplay2)就不稳定了，会偶发性闪退，安卓版本高了也打不开
-
-安卓8往上要稳一点的话，最好装[安卓的虚拟机](https://www.coolapk.com/apk/com.vmos.app)，然后再用安卓7版的播放器
+安卓8往上要装[虚拟机](https://www.coolapk.com/apk/com.vmos.app)，然后打开虚拟机运行播放器
 
 ## 。。。
 以前各个网站都有的游戏或动画，现在竟然搜都搜不到，曾经的辉煌仿佛南柯一梦。
